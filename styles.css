@@ -1,1 +1,10 @@
-
+.dark{
+    background-color: black;
+    color: antiquewhite;
+}
+.total{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    font-weight: bold;
+	 background-color: aqua;
+}
